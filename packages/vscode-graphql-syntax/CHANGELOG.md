@@ -1,5 +1,11 @@
 # vscode-graphql-syntax
 
+## 1.3.9
+
+### Patch Changes
+
+- [`cf01e19`](https://github.com/graphql/graphiql/commit/cf01e197277d23a02a26df313d87f2f025bc7951) Thanks [@KammererTob](https://github.com/KammererTob)! - Updated scopes to include new Vue grammar scope name
+
 ## 1.3.8
 
 ### Patch Changes
